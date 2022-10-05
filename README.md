@@ -10,8 +10,6 @@ You may use any language you prefer (although we recommend using your strongest 
 
 Your source code must be provided via GitHub or BitBucket or some other public code repository store.
 
-*Please also ensure that you do not include Allan Gray’s name in your repo or assignment Readme files.
-
 The following assessment guide will be used:
         * Does the code work?
         * Does the code read well?
