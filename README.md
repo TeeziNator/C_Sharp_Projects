@@ -3,15 +3,21 @@ ALLAN GRAY - RETAIL IT CODING ASSESSMENT
 Introduction - Coding Assignment
 
 The assignment is more than delivering a working solution, we are looking for qualitative things too (e.g. SOLID principles).
+
 In the end we would like to see what you consider to be a good solution and want to see if it is aligned with our understanding.
+
 You may use any language you prefer (although we recommend using your strongest language) as long as you provide us with the source code and notes on how to run it.
+
 Your source code must be provided via GitHub or BitBucket or some other public code repository store.
+
 *Please also ensure that you do not include Allan Gray’s name in your repo or assignment Readme files.
+
 The following assessment guide will be used:
- Does the code work?
- Does the code read well?
- Does the code handle errors?
- Is the code unit tested?
+        * Does the code work?
+        * Does the code read well?
+        * Does the code handle errors?
+        * Is the code unit tested?
+        
 Please see below for details.
 
 Good luck!
